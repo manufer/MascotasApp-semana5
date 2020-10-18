@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MascotasApp</string>
+    <string name="name">Pet Name</string>
+    <string name="likes">0</string>
+    <string name="top_pets">Top Pets</string>
+    <string name="top_pets_activity">Top 5 Pets</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+    <string name="et_subject">subject</string>
+    <string name="et_email">mail</string>
+    <string name="et_message">enter your message here</string>
+    <string name="send_message">Send message</string>
+    <string name="manufer">ManFer</string>
+    <string name="_2020">2020</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="title_activity_empty">empty</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dog">Doggy</string>
+    <string name="estudiante">estudiante</string>
+    <string name="ManFern">nombre</string>
+    <string name="todo">to</string>
+</resources>
